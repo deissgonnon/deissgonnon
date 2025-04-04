@@ -2,7 +2,7 @@
 
 ### 🚀 **Welcome to My GitHub!**  
 
-I'm **Deiss GONNON**, a passionate computer scientist and researcher specializing in **blockchain, AI, IoT, and cybersecurity**. I have a strong background in **computer science, applied computing, and modern database technologies**. Currently, I am pursuing a **Master’s in Computer Science at Southwest Petroleum University, China** and i had worked on cutting-edge projects in **Intelligent Electronic waste system, fertigation systems, and decentralized voting**.  
+I'm **Deiss GONNON**, a passionate computer science student. I have a strong background in **computer science, applied computing, and modern database technologies**. Currently, I am pursuing a **Master’s in Computer Science at Southwest Petroleum University, China** and i had worked on cutting-edge projects in **Intelligent Electronic waste system, fertigation systems, and decentralized voting**.  
 
 ---
 
@@ -11,7 +11,7 @@ I'm **Deiss GONNON**, a passionate computer scientist and researcher specializin
 - 🏗 **Blockchain & Web3**: Building secure and decentralized systems like **BVS (Blockchain Voting System)** and **land title security frameworks**.  
 - 📡 **IoT & Automation**: Developing smart solutions like **greenhouse fertigation systems** and **gas level control**.  
 - 🧠 **AI & ML**: Researching  **depression prediction models**, and **computer vision for robotics**.  
-- 🔐 **Cybersecurity & Databases**: Exploring modern security practices and database architectures
+- 🔐 **Querry Optimisation**: Exploring modern security practices and database architectures
 - 🤖 **Computer Vision**: Implementing **hand gesture-based robotics control**, **optical ID recognition**, and **agricultural product classification**.  
 
 ---
@@ -21,7 +21,7 @@ I'm **Deiss GONNON**, a passionate computer scientist and researcher specializin
 ✔️ **Smart Drip Irrigation**: Modeling and designing an irrigation network with **electronic solenoids**.  
 ✔️ **Blockchain-Based Voting System**: A decentralized **Ethereum-powered** voting system.  
 ✔️ **National ID OCR API**: Optical recognition system for extracting information from **Benin's national ID cards**.  
-✔️ **MLOps & Data Science**: Improving **depression prediction models** and working on **math for data science**.  
+✔️ **Machine Learning**: Improving **depression prediction models** and working on **math for data science**.  
 
 ---
 
@@ -35,10 +35,8 @@ I'm **Deiss GONNON**, a passionate computer scientist and researcher specializin
 
 ### 📚 **Interests & Learning Goals**  
 
-- 📖 Reading **one English book per year** to improve fluency.  
-- 🏗 Deepening my knowledge in **Computer science & applied cybersecurity for AI**.  
-- 🏯 Learning **basic Chinese** for daily life interactions.  
-- ❤️ Exploring new **man-machine interaction methods** in robotics.  
+- 🏗 Deepening my knowledge in **Computer science & applied cybersecurity for AI**.   
+- ❤️ Exploring new **Technics in AI for cybersecurity and Image processing**.  
 
 ---
 
