@@ -1,16 +1,55 @@
 ## Hi there 👋
 
-<!--
-**deissgonnon/deissgonnon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 **Welcome to My GitHub!**  
 
-Here are some ideas to get you started:
+Hi there! I'm **Deiss GONNON**, a passionate computer scientist and researcher specializing in **blockchain, AI, IoT, and cybersecurity**. I have a strong background in **computer science, applied computing, and modern database technologies**. Currently, I am pursuing a **Master’s in Computer Science at Southwest Petroleum University, China** and i had worked on cutting-edge projects in **Intelligent Electronic waste system, fertigation systems, and decentralized voting**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔥 **What I Work On**  
+
+- 🏗 **Blockchain & Web3**: Building secure and decentralized systems like **BVS (Blockchain Voting System)** and **land title security frameworks**.  
+- 📡 **IoT & Automation**: Developing smart solutions like **greenhouse fertigation systems** and **gas level control**.  
+- 🧠 **AI & ML**: Researching  **depression prediction models**, and **computer vision for robotics**.  
+- 🔐 **Cybersecurity & Databases**: Exploring modern security practices and database architectures
+- 🤖 **Computer Vision**: Implementing **hand gesture-based robotics control**, **optical ID recognition**, and **agricultural product classification**.  
+
+---
+
+### 🌱 **Ongoing Projects**  
+
+✔️ **Smart Drip Irrigation**: Modeling and designing an irrigation network with **electronic solenoids**.  
+✔️ **Blockchain-Based Voting System**: A decentralized **Ethereum-powered** voting system.  
+✔️ **National ID OCR API**: Optical recognition system for extracting information from **Benin's national ID cards**.  
+✔️ **MLOps & Data Science**: Improving **depression prediction models** and working on **math for data science**.  
+
+---
+
+### 🏆 **Achievements**  
+
+🏅 **Winner - Smart E-Waste Management Hackathon** (1st place, Benin)  
+🥈 **Runner-up - Digital Academic Services Hackathon** (2nd place, Agence Universitaire de la Francophonie)  
+🎓 **Mathematics Scholarship - African Institut of Mathematics Ghana (Declined for China studies)**  
+
+---
+
+### 📚 **Interests & Learning Goals**  
+
+- 📖 Reading **one English book per year** to improve fluency.  
+- 🏗 Deepening my knowledge in **Computer science & applied cybersecurity for AI**.  
+- 🏯 Learning **basic Chinese** for daily life interactions.  
+- ❤️ Exploring new **man-machine interaction methods** in robotics.  
+
+---
+
+### 💡 **Let's Connect!**  
+
+🚀 If you're passionate about **AI, blockchain, cybersecurity, or IoT**, feel free to reach out!  
+📧 Email: deissgonnon6@gmail.com
+🌐 LinkedIn: Guest 
+🐦 Twitter: ... Maybe
+
+🔗 **GitHub Stats**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deissgonnon&show_icons=true&theme=radical)  
+
+🚀 **Happy coding! 😊** 🚀   
