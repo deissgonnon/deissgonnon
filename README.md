@@ -2,7 +2,7 @@
 
 ### 🚀 **Welcome to My GitHub!**  
 
-I'm **Deiss GONNON**, a passionate computer science student. I have a strong background in **computer science, applied computing, and modern database technologies**. Currently, I am pursuing a **Master’s in Computer Science at Southwest Petroleum University, China** and i had worked on cutting-edge projects in **Intelligent Electronic waste system, fertigation systems, and decentralized voting**.  
+I'm **Deiss GONNON**, a passionate computer science student. I have a strong background in **computer science, applied computing, and modern database technologies**. Currently, I am pursuing a **Master’s in Computer Science** and i had worked on cutting-edge projects in **Intelligent Electronic waste system, fertigation systems, and decentralized voting**.  
 
 ---
 
