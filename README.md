@@ -2,7 +2,7 @@
 
 ### 🚀 **Welcome to My GitHub!**  
 
-I'm **Deiss GONNON**, a passionate computer science student. I have a strong background in **computer science(DS,Algebra,Networking, Statistics, Calculus, Information theory, Game theory)**. Currently, I am pursuing a **Master’s in Computer Science** I had worked on cutting-edge projects in **Intelligent Electronic waste system, fertigation systems, and decentralized voting**.  
+I'm a computer science student with a strong background in **computer science(DS,Algebra,Networking, Statistics, Calculus, Information theory, Game theory)**. Currently, I am pursuing a **Master’s in Computer Science** I had worked on cutting-edge projects in **Intelligent Electronic waste system, fertigation systems, and decentralized voting**.  
 
 ---
 
